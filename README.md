@@ -44,9 +44,8 @@ git clone https://github.com/yourusername/travel_guide_app.git
 cd travel_guide_app
 flutter pub get
 flutter run
-
------
-
+```
+---
 ## Demo
 
 You can watch a quick video demo of the app here:
@@ -62,7 +61,7 @@ Also, animation was added using pre-made assets (not built from scratch), just t
 
 ---
 
-License
+## License
 
 This project is open-source and licensed under the MIT License.
 You are free to use or modify the code, but please credit the original author (Mohamed El-Sayed).
