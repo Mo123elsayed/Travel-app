@@ -47,7 +47,7 @@ flutter run
 
 -----
 
-Demo
+## Demo
 
 You can watch a quick video demo of the app here:
 👇🏼
