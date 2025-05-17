@@ -31,7 +31,6 @@ Built as my first complete Flutter project to explore UI building, state managem
 
 ## Screenshots
 
-*(You can add screenshots or UI previews here later)*
 
 ---
 
