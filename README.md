@@ -40,7 +40,7 @@ Built as my first complete Flutter project to explore UI building, state managem
 To run the project locally:
 
 ```bash
-git clone https://github.com/yourusername/travel_guide_app.git
+git clone https://github.com/Mo123elsayed/Travel-app.git
 cd travel_guide_app
 flutter pub get
 flutter run
